@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sending Objects</string>
+    <string name="Male_button">MALE</string>
+    <string name="Female_button">FEMALE</string>
+    <string name="name_text">Enter Your Name</string>
+    <string name="male_radio_button">MALE</string>
+    <string name="female_radio_button">FEMALE</string>
+    <string name="Roll_no">Roll No</string>
+    <string name="Phone_no">Mobile No</string>
+    <string name="Gender">Gender Of Student</string>
+    <string name="name_text2">Name Of Student</string>
+    <string name="Roll_no2">RollNo. Of Student</string>
+    <string name="Phone_no2">MobileNo. Of Student</string>
+    <string name="SaveButton">SAVE</string>
+</resources>
