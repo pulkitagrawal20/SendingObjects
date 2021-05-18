@@ -6,6 +6,7 @@ We can Enter data and send it to another Activity.
 Download [APK](https://github.com/pulkitagrawal20/SendingObjects/releases/download/v1.0/app-debug.apk) from Here:
 
 # Previews of the Application:-
+
 ![b14a9106-ed65-4da0-b444-10edd74136db](https://user-images.githubusercontent.com/69674896/117710645-f9bac880-b1ef-11eb-8736-0dd2bb25db09.jpg)
 ![16f372e2-44c5-4524-881c-2b4ce1e158ed](https://user-images.githubusercontent.com/69674896/117710725-10f9b600-b1f0-11eb-9a76-008c5bbc3eaf.jpg)
 ![4411c5c0-9644-47f7-a82f-975e6f413b37](https://user-images.githubusercontent.com/69674896/117710737-135c1000-b1f0-11eb-8cd7-52aa2ab82cdc.jpg)
