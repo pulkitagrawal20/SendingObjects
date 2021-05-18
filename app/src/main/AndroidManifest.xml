@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SendingObjects">
-        <activity android:name=".ObjectViewerActivity"></activity>
+        <activity android:name=".ObjectViewerActivity"
+            android:parentActivityName=".ObjectSenderActivity">
+        </activity>
         <activity android:name=".ObjectSenderActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
